@@ -29,9 +29,9 @@
   --color-subpest-act:  #7a7a7a;   /* sub-pestaña elegida                 */
   --color-modal-texto:  #ffffff;   /* título del video abierto            */
   --puntos-fondo:       rgba(21, 21, 21, .035);   /* puntitos del fondo   */
-  --filtro-logo:        none;      /* filtro de los logos de texto        */
-  --filtro-personaje:   none;      /* filtro de la ilustración del banner */
-  --mezcla-personaje:   normal;    /* mezcla de la ilustración con el fondo */
+  */--filtro-logo:        none;      /* filtro de los logos de texto        */*/
+  */--filtro-personaje:   none;      /* filtro de la ilustración del banner */*/
+  */--mezcla-personaje:   normal;    /* mezcla de la ilustración con el fondo */*/
 
   /* ---------------------------------------------------------------------
      TIPOGRAFÍAS
@@ -74,7 +74,7 @@ html[data-tema="dark"] {
   --color-rojo:         #c9402f;
   --color-rojo-claro:   #df5842;
   --color-rojo-oscuro:  #98291f;
-  --color-negro:        #ece6d9;   /* trazos y bordes (hueso, tipo tiza) */
+  --color-negro:        #151515;   /* trazos y bordes (hueso, tipo tiza) */
   --color-texto:        #ece6d9;
   --color-texto-suave:  #9b958a;
 
