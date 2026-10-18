@@ -74,7 +74,7 @@ html[data-tema="dark"] {
   --color-rojo:         #c9402f;
   --color-rojo-claro:   #df5842;
   --color-rojo-oscuro:  #98291f;
-  --color-negro:        #151515;   /* trazos y bordes (hueso, tipo tiza) */
+  --color-negro:        #757575;   /* trazos y bordes (hueso, tipo tiza) */
   --color-texto:        #ece6d9;
   --color-texto-suave:  #9b958a;
 
